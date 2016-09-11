@@ -16,4 +16,4 @@ npm install && npm start
 
 ## In Use
 - Electron
-- LocalForage
+- localForage
