@@ -16,4 +16,10 @@ npm install && npm start
 
 ## In Use
 - Electron
-- localForage
+- localStorage
+
+## To Do(s)
+- Delete
+- Edit
+- Markdown support
+- Priority Marker
