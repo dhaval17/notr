@@ -18,7 +18,7 @@ npm install && npm start
 - Electron
 - localStorage
 
-## To Do(s)
+#### To Do(s)
 - Delete
 - Edit
 - Markdown support
