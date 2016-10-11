@@ -23,7 +23,7 @@ npm install && npm start
 
 #### Releases
 
-[Version 1.0](https://github.com/dhaval17/notr/releases/download/v1.0.1/notr.zip)
+[Version 1.0.1](https://github.com/dhaval17/notr/releases/download/v1.0.1/notr.zip)
 
 #### To Do(s)
 - Delete
