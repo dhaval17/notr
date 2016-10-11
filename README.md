@@ -18,6 +18,9 @@ npm install && npm start
 - Electron
 - localStorage
 
+#### Build
+`npm run build:macos`
+
 #### Releases
 
 [Version 1.0](https://github.com/dhaval17/notr/releases/download/v1.0.1/notr.zip)
