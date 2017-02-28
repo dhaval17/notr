@@ -20,6 +20,10 @@ npm install && npm start
 
 #### Build
 `npm run build:macos`
+`npm run build:linux`
+`npm run build:windows`
+`npm run build:linux32`
+`npm run build:windows32`
 
 #### Releases
 
