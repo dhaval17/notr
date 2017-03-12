@@ -1,6 +1,6 @@
 {
   "name": "notr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use localStorage instead of Cloud",
   "main": "index.js",
   "scripts": {
